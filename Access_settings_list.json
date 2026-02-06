@@ -1,4 +1,4 @@
-﻿{
+{
     "enable": true,
     "mode": "acceptSelected",
     "acceptList": [
@@ -111,13 +111,14 @@
         "com.google.android.apps.cloudconsole",
         "com.google.android.keep",
         "com.google.android.contacts",
-        "plus.yumeyuka.yumebox.alpha"        
+        "plus.yumeyuka.yumebox.alpha",
+	"com.appshub.bettbox"        
     ],
     "rejectList": [
         "com.google.android.webview",
         "com.samsung.android.carlink"
     ],
-    "sort": "name",
+  "sort": "time",
     "isFilterSystemApp": false,
     "isFilterNonInternetApp": false
 }
